@@ -1,0 +1,4 @@
+# ninja log v6
+0	33157	1731998067358650211	/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/build/temp.linux-x86_64-3.8/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/src/cpu/ms_deform_attn_cpu.o	3cc44b9e26ef4f3a
+0	40694	1731998067358650211	/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/build/temp.linux-x86_64-3.8/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/src/cuda/ms_deform_attn_cuda.o	2a584f7e84274291
+0	48474	1731998067358650211	/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/build/temp.linux-x86_64-3.8/home1/wr21125091/Anchor3DLane/mmseg/models/utils/ops/src/vision.o	e96606e6a6a27094

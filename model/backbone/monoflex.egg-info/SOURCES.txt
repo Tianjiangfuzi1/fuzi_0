@@ -1,0 +1,10 @@
+setup.py
+DCNv2/__init__.py
+DCNv2/dcn_v2.py
+DCNv2/setup.py
+DCNv2/testcpu.py
+DCNv2/testcuda.py
+monoflex.egg-info/PKG-INFO
+monoflex.egg-info/SOURCES.txt
+monoflex.egg-info/dependency_links.txt
+monoflex.egg-info/top_level.txt
